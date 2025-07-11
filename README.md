@@ -1,0 +1,2 @@
+ADMIN_EMAIL=rahulyadav12@gmail.com
+ADMIN_PASSWORD=rahulyadav12
